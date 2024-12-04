@@ -1,3 +1,5 @@
+Visit my portfolio website: leandrobirth.com
+
 - 👋 Hi, I’m @LeandroBirth
 - 👀 I’m interested in technology - programming and (web) design
 - 🌱 I’m currently learning Java
