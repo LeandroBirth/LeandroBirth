@@ -2,7 +2,7 @@ Visit my portfolio website: leandrobirth.com
 
 - 👋 Hi, I’m @LeandroBirth
 - 👀 I’m interested in technology - programming and (web) design
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently getting more pratice on Java
 - 💞️ I’m looking to collaborate on finding the meaning of life
 - 📫 How to reach me - Dm me?
 - 😄 Pronouns: He/Him
